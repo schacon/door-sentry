@@ -37,7 +37,7 @@ void loop() {
         digitalWrite(led, HIGH);
         isOn =1;
       }
-      delay(250);
+      delay(300);
     }else{
      digitalWrite(led, HIGH);
      isOn =1;
