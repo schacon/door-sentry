@@ -37,10 +37,11 @@ void loop() {
         digitalWrite(led, HIGH);
         isOn =1;
       }
-      delay(300);
+      delay(320);
     }else{
      digitalWrite(led, HIGH);
      isOn =1;
+     // hey
     }
   } else{
     digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
